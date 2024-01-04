@@ -8,7 +8,7 @@ The Seat Selection App is a Flutter application that allows users to select seat
 - Seat selection by tapping on individual seats
 - Visual indication of selected seats
 - Scrollable view to navigate through the cabin
-- Search functionality to highlight specific seats(search needs to be improved)
+- Search functionality to highlight specific seats
 
 ## Screenshots
 
@@ -22,3 +22,8 @@ The Seat Selection App is a Flutter application that allows users to select seat
 
 
 [Download Now](https://github.com/tanaysarkar0408/seat_finder/releases)
+
+## Things I will add in future
+
+- Enhanced search feature
+- Deselect all seats
