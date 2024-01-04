@@ -21,3 +21,4 @@ The Seat Selection App is a Flutter application that allows users to select seat
 - Dart: The programming language used for developing Flutter applications
 
 
+[Download Now](https://github.com/tanaysarkar0408/seat_finder/releases)
