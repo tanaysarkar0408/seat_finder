@@ -12,7 +12,7 @@ The Seat Selection App is a Flutter application that allows users to select seat
 
 ## Screenshots
 
-<img src = "assets/SS1.jpeg" alt = "Seat Selection Screen" width = 300><img src = "assets/SS2.jpeg" alt = "Confirm Selection Screen" width = 300>
+<img src = "https://imgur.com/N5lQmu3.jpeg" alt = "Seat Selection Screen" width = 300><img src = "https://imgur.com/zQyiKLN.jpeg" alt = "Confirm Selection Screen" width = 300>
 
 ## Technologies Used
 
